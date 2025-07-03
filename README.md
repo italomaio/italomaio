@@ -9,11 +9,3 @@ I've worked on **projects of all sizes**, from startups to multinational corpora
 ---
 
 I've recently expanded my focus into **Generative Artificial Intelligence (GEN AI)**, actively creating **multi-agent systems** using **LangChain and LangGraph** with **TypeScript, NestJS**, and **Next.js**. This blend allows me to develop innovative solutions that seamlessly combine AI with user experience, adding strategic value.
-
-### **About Me**
-
-- **🔭 Focus:** **Generative AI** (multi-agent systems, LangChain, LangGraph) with **Next.js, TypeScript, NestJS**.
-- **👯 Collaboration Interests:** **GEN AI**, **education**, **accessibility**, and **performance** projects.
-- **🌱 Continuous Learning:** Latest trends in **Generative AI** and the **JavaScript/TypeScript ecosystem**.
-- **💬 Ask me about:** **Component architecture**, **React/Next.js performance**, **UI/UX design**, or **Generative AI in Frontend**.
-- **⚡ Fun Fact:** I'm a **multi-instrumentalist musician by hobby**—it demands discipline and creativity, just like coding!
